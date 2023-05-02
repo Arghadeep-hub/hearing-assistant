@@ -6,7 +6,7 @@
     "start_url": "/",
     "name": "Hearing Assistant",
     "short_name": "Hearing Assistant",
-    "description": "A speech recognization app by ",
+    "description": "A speech recognization app by Arghadeep Mallick.",
     "icons": [
         {
             "src": "/icons/icon-192x192.png",

@@ -5,11 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link rel="manifest" href="/manifest.json" />
-        <link rel="apple-touch-icon" href="/favicon-180.png" />
-        <meta name="theme-color" content="#fff" />
-        <meta name="msapplication-TileColor" content="#FFFFFF" />
-        <meta name="msapplication-TileImage" content="/icons/favicon-144.png" />
-        <meta name="msapplication-config" content="/icons/browserconfig.xml" />
+        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"></link>
         <link
           rel="shortcut icon"
           href="/icons/favicon.ico"
