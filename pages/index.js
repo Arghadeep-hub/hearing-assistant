@@ -14,6 +14,12 @@ const languages = [
     native: "हिन्दी",
     code: "hi",
   },
+  {
+    no: "45",
+    name: "Bengali",
+    native: "বাংলা",
+    code: "bn",
+  },
 ];
 
 export default function Home() {
