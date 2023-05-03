@@ -78,7 +78,7 @@ const SpeechToText = ({ languages }) => {
 
   return (
     <div className="container">
-      <p className="heading">Speech to Text</p>
+      <p className="heading">Hearing Assistant</p>
       <div className="options">
         <div className="anguage">
           <p>Language</p>
